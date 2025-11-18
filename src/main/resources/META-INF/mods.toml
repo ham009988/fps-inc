@@ -1,0 +1,12 @@
+modLoader = "javafml"
+loaderVersion = "[49,)"
+license = "MIT"
+
+[[mods]]
+modId = "litematicaclone"
+version = "1.0.0"
+displayName = "LitematicaClone"
+authors = "ham009988"
+description = "'''
+A clone mod inspired by Litematica, for Minecraft Forge 1.21.10.
+'''"
